@@ -1,4 +1,4 @@
-##Terms and Conditions
+## Terms and Conditions
  
 Please read these terms of service collectively with the Privacy Policy fully and carefully before using the site and the services, features, content, or applications offered by the site. These Terms of Service set forth the legally binding terms and conditions for your use of the Site and the Services.
 
