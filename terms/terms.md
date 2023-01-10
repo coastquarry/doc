@@ -2,7 +2,7 @@
  
 Please read these terms of service collectively with the Privacy Policy fully and carefully before using the site and the services, features, content, or applications offered by the site. These Terms of Service set forth the legally binding terms and conditions for your use of the Site and the Services.
 
-Collection of Information
+1. Collection of Information
 By registering for and/or using the Services in any manner, including but not limited to visiting or browsing the Site, you agree to these Terms of Service and all other operating rules, policies, and procedures that may be published from time to time on the Site by us, each of which is incorporated by reference and each of which may be updated from time to time without notice to you.
 
 Use and Disclosure of Information
